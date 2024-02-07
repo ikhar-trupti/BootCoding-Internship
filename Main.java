@@ -7,7 +7,7 @@ import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args) {
-        HashMap<Integer, Student> map = new HashMap<>();
+
         Student s1 = new Student(1, "Trupti Ikhar", 'A', 9.0);
         Student s2 = new Student(2, "Sakshi Waghmare", 'B', 7.8);
         Student s3 = new Student(3, "Aniket Ikhar", 'A', 6.0);
